@@ -74,3 +74,5 @@ def play_rps():
 
 
 play_rps()
+
+#scope still needs work though, the last part ran into a error with the function
